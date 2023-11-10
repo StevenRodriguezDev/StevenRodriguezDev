@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1&random=false&width=435&lines=Hello+There+%F0%9F%91%8B;WELCOME+TO+MY+GITHUB+%F0%9F%A4%96;Happy+Hacking!+%F0%9F%91%BE)](https://git.io/typing-svg)
-
+<!--
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
@@ -25,7 +25,7 @@
 
 ![ezgif com-gif-maker](https://github.com/StevenRodriguezDev/StevenRodriguezDev/assets/54337759/8f2bf771-d6b6-42e9-a90a-972487396b9f)
 
-<!--
+
 **StevenRodriguezDev/StevenRodriguezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
