@@ -1,4 +1,5 @@
 ### Hi there 👋
+![ezgif com-gif-maker](https://github.com/StevenRodriguezDev/StevenRodriguezDev/assets/54337759/8f2bf771-d6b6-42e9-a90a-972487396b9f)
 
 <!--
 **StevenRodriguezDev/StevenRodriguezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
